@@ -1,0 +1,123 @@
+@media screen and (max-width: 1199px) {
+
+header .nav-holder nav li{
+	 padding: 0 5px;
+}
+}
+
+
+@media screen and (max-width: 1039px) {
+
+  .nav-holder nav {
+    display: none;
+  }
+ .nav-holder #menu-button{
+  display: block;
+ }
+}
+
+@media screen and (max-width: 1039px){
+
+  .nk-tel-text{
+    margin-top: 98px;
+  }
+  .nk-text{
+  	margin-top: 45px;
+  }
+  .nk-main-holder{
+    margin-top: 80px;
+  }
+  .nk-o-registru{
+    margin-top: 28px;
+  }
+
+}
+@media screen and (max-width: 991px){
+  .nk-tel{
+    margin-top: 25px;
+  }
+  .nk-text{
+  	margin-top: -37px;
+  }
+  .nk-doktor1{
+    margin-top: -23px;
+  }
+  .nk-doktor2{
+    margin-top: -23px;
+  }
+ 
+}
+@media screen and (max-width: 767px){
+ .nav-holder #menu-button{
+  bottom: 120px;
+ }
+  .nk-menu-holder{
+    text-align: center;
+  }
+  .nk-naslov{
+    width: auto;
+  }
+
+  .nk-tel-text{
+    margin-top: 35px;
+  }
+  .nk-text{
+    display: none;
+  }
+  .nk-main-holder{
+  	margin-top: 254px;
+  }
+  .nk-text2{
+  	display: block;
+  }
+  .nk-o-registru{
+    margin-top: 150px;
+  }
+  .nk-doktor1{
+    margin-top: 80px;
+  }
+  .nk-doktor2{
+    margin-top: 80px;
+  }
+  .nk-documents-holder h2{
+    text-align: center;
+  }
+  .nk-btn-doc{
+    text-align: center;
+  }
+
+ 
+  .nk-laviefarm{
+    text-align: center;
+  }
+  .nk-contact{
+    text-align: center;
+  }
+}
+@media screen and (max-width: 414px){
+    .nk-main-holder{
+  	margin-top: 164px;
+  }
+  .nk-naslov h2{
+    padding: 0 4px;
+  }
+
+  .nk-o-registru{
+    margin-top: 50px;
+  }
+
+}
+@media screen and (max-width: 360px){
+    .nk-main-holder{
+  	margin-top: 54px;
+  }
+
+
+}
+@media screen and (max-width: 320px){
+    .nk-main-holder{
+  	margin-top: 10px;
+  }
+
+
+}

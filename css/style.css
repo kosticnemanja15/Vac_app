@@ -1,0 +1,307 @@
+                                             /*HEADER*/
+.nk-header{
+	background: #5dcae6;
+	height: 528px;
+}  
+.nk-gradient{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5dcae6+0,237da3+100&0.82+0,1+100 */
+background: -moz-linear-gradient(top, rgba(93,202,230,0.82) 0%, rgba(35,125,163,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(93,202,230,0.82) 0%,rgba(35,125,163,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(93,202,230,0.82) 0%,rgba(35,125,163,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d15dcae6', endColorstr='#237da3',GradientType=0 ); /* IE6-9 */
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+height: 528px;
+
+}  
+.nk-menu-holder{
+	padding-top: 31px;
+} 
+.nk-naslov{
+	width: 232px;
+	margin-top: 25px;
+}  
+.nk-naslov h2{
+	font-size: 16px;
+	font-family:  'Roboto',sans-serif;
+	font-weight: bold;
+	color: #fff;
+} 
+/*.nk-navigation{
+  position: absolute;
+    right: 15px;
+    top: 12px;
+  
+}
+
+
+.nk-topnav a {
+  float: left;
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 10px 15px;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: 'Roboto',sans-serif;
+  width: auto;
+  text-align: left;
+}
+
+.nk-topnav a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.topnav .icon {
+  display: none;
+}*/
+header .main-menu{
+  padding-top: 22px;
+  float: right;
+}
+header .nav-holder ul {
+
+    text-align: justify;
+    margin: 0;
+}
+
+
+
+header .nav-holder nav li {
+    display: inline-block;
+    list-style: none;
+    position: relative;
+   padding: 0 10px;
+}
+header .nav-holder nav li a{
+  color: #fff;
+  font-family: 'Roboto',sans-serif;
+  font-size: 16px;
+}
+
+
+.nav-holder #menu-button {
+    display: none;
+    position: absolute;
+    right: 10px;
+  
+    width: 30px;
+    z-index: 1;
+    color: white;
+  cursor: pointer;
+  }
+
+
+
+
+/*.nk-button-holder{
+	    position: absolute;
+    right: 15px;
+    top: 15px;
+
+}*/
+.btn-head{
+	background: #fff;
+	font-size: 14px;
+	font-family: 'Roboto',sans-serif;
+	color: #38a2cf !important;;
+  border-radius: 5px;
+ margin-top: -7px;
+ padding:10px;
+}
+
+.btn:hover{
+  cursor: pointer;
+}
+
+.nk-tel-text{
+  margin-top: 75px;
+}
+.nk-group{
+  width: 100%;
+}
+.nk-text{
+  margin-top: 90px;
+  margin-left: 20px;
+  font-family: 'Roboto',sans-serif;
+  color: #fff;
+}
+.nk-text h2{
+  font-size: 24px;
+  font-weight: bold;
+}
+.nk-text p{
+  font-size: 16px;
+  font-weight: 300;
+}
+
+                                                       /*MAIN*/
+
+.nk-main-holder{
+  margin-top: 180px;
+  margin-bottom: 50px;
+}   
+.nk-text2{
+  display: none;
+}
+.nk-o-registru h2{
+  font-family: 'Roboto',sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+}      
+.nk-o-registru p{
+  font-family: 'Roboto',sans-serif;
+  font-size: 16px;
+  color: #000;
+  margin-top: 14px;
+  
+}    
+.nk-o-registru a{
+  font-family: 'Roboto',sans-serif;
+  font-size: 16px;
+  color: #38a2cf;
+}
+.nk-o-registru a:hover{
+  text-decoration: none;
+  color: #38a2cf;
+}  
+.nk-bitmap1{
+  width: 100%;
+  height: 249px;
+  object-fit: contain;
+}
+.nk-doktor1{
+  font-family: 'Roboto',sans-serif;
+  color: #000;
+}   
+.nk-doktor1 h2{
+  margin: 30px 0;
+  font-size: 24px;
+  font-weight: bold;
+} 
+.nk-doktor1 p{
+  font-size: 16px;
+  text-align: left;
+  
+}
+.nk-doktor1 a{
+  color: #38a2cf;
+}
+
+.nk-bitmap2{
+   width: 100%;
+  height: 249px;
+  object-fit: contain;
+}
+.nk-doktor2{
+  font-family: 'Roboto',sans-serif;
+  color: #000;
+}   
+.nk-doktor2 h2{
+  margin: 30px 0;
+  font-size: 24px;
+  font-weight: bold;
+} 
+.nk-doktor2 p{
+  font-size: 16px;
+  text-align: left;
+}
+.nk-doktor2 a{
+  color: #38a2cf;
+}
+.nk-doktor1 a:hover{
+  text-decoration: none;
+  color: #38a2cf;
+}
+.nk-doktor2 a:hover{
+  text-decoration: none;
+  color: #38a2cf;
+}
+
+
+                                                  /*SECTION nk-section*/
+.nk-section{
+  background: #efefef;
+}
+.nk-section-holder-box{
+
+  padding: 50px 0;
+}
+.nk-vac-text {
+  font-family: 'Roboto',sans-serif;
+  color: #000;
+}
+.nk-vac-text h2{
+  font-size: 24px;
+  font-weight: bold;
+}
+.nk-vac-text p{
+  font-size: 16px;
+  margin-top: 18px;
+}
+
+
+
+                                               /*SECTION nk-documents*/
+
+.nk-documents-holder{
+  margin: 40px 0;
+} 
+.nk-documents-holder h2{
+  font-size: 24px;
+  font-family: 'Roboto',sans-serif;
+  font-weight: bold;
+} 
+.nk-btn-doc{
+  margin: 20px 0;
+}
+.nk-btn-doc .btn{
+  padding: 10px 30px;
+  background: #38a2cf;
+  color: #fff;
+  border-radius: 5px;
+}
+
+                                                /*FOOTER*/
+
+.nk-footer{
+  background: #4a4a4a;
+}  
+.nk-laviefarm {
+  margin: 50px 0;
+}   
+.nk-laviefarm h2{
+  font-size: 24px;
+  font-family: 'Roboto',sans-serif;
+  color: #fff;
+  font-weight: 300;
+}  
+
+.nk-contact{
+  margin: 50px 0;
+  text-align: right;
+}     
+.nk-contact p{
+  font-size: 16px;
+  font-family: 'Roboto',sans-serif;
+  font-weight: 300;
+  color: #fff;
+}
+.nk-contact a{
+  color: #fff;
+  font-size: 16px;
+  font-family: 'Roboto',sans-serif;
+  font-weight: 300;
+}
+.nk-contact a:hover{
+  text-decoration: none;
+  color: #fff;
+}
+
+
+                                              /*RESPONSIVE !!!*/
+
